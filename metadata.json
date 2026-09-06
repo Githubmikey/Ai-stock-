@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix AI Stock Management",
+  "description": "Warehouse stock management with QR scanning for stock in/out, real-time inventory alerts, AI demand forecasting, and offline sync.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
